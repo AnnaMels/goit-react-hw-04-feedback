@@ -11,5 +11,5 @@ export default function FeedbackSection({ title, children }) {
 
 FeedbackSection.propTypes = {
     title: PropTypes.string,
-    // children: PropTypes.array,
+    children: PropTypes.array,
 }
